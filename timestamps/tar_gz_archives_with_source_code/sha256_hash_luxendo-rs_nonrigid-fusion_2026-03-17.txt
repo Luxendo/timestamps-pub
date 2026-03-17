@@ -1,0 +1,1 @@
+b43b3e19ea9a082556af553c8dbca09bb0b1163d555f7d787c1aa0854945f97d  luxendo-rs_nonrigid-fusion_2026-03-17.tar.gz
